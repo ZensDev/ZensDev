@@ -1,5 +1,5 @@
 <!-- ANIMATED BACKGROUND BANNER -->
-<img src="Background.gif" width="100%" alt="Animated Background" />
+<img src="background.gif" width="100%" alt="Animated Background" />
 
 <br>
 
