@@ -1,9 +1,5 @@
-<!-- VIDEO LINK SECTION -->
-<p align="center">
-  🎥 <a href="https://files.catbox.moe/i828eh.mp4" target="_blank">
-    Click here to watch my background video
-  </a>
-</p>
+<!-- ANIMATED BACKGROUND BANNER -->
+<img src="Background.gif" width="100%" alt="Animated Background" />
 
 <br>
 
@@ -30,27 +26,6 @@ My main focus is **Web Development**, where I explore both frontend and backend 
 
 I like creating small projects to sharpen my skills and understand how real-world applications work.
 
----
-
-## 💻 Skills
-- **HTML** – Structure & layout  
-- **CSS** – Styling & responsive design  
-- **JavaScript** – Interactivity & logic  
-- **PHP** – Backend & server-side logic  
-
----
-
-## 🎯 Goals
-- Build real-world web projects  
-- Improve problem-solving skills  
-- Grow step by step into a professional developer  
-
----
-
-🔗 **Background video:**  
-https://files.catbox.moe/i828eh.mp4
-
-🚀 *Always learning, always improving.*
 ---
 
 ## 💻 Skills
