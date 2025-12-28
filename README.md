@@ -1,27 +1,49 @@
-<!-- PROFILE CARD -->
-<div align="center" style="background:#0d1117;padding:40px;border-radius:20px;">
+<!-- MAIN CONTAINER -->
+<div align="center" style="
+  background-image: url('space.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 70px 20px;
+  border-radius: 24px;
+  color: white;
+  box-shadow: 0 0 40px rgba(0,0,0,0.6);
+">
 
-  <!-- GLOW CIRCLE -->
+  <!-- PROFILE WITH GLOW -->
   <div style="
-    width:200px;
-    height:200px;
-    border-radius:50%;
-    padding:5px;
-    background: conic-gradient(from 0deg, #00f2ff, #7a00ff, #00f2ff);
-    animation: spin 4s linear infinite;
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    padding: 6px;
+    background: conic-gradient(
+      from 0deg,
+      #00eaff,
+      #0066ff,
+      #7a00ff,
+      #00eaff
+    );
+    animation: spin 6s linear infinite;
+    margin-bottom: 25px;
   ">
-    <img src="profile.jpg" 
-         style="
-         width:100%;
-         height:100%;
-         border-radius:50%;
-         object-fit:cover;
-         background:#000;
-         ">
+    <img src="profile.jpg"
+      alt="ZensDev Profile"
+      style="
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        object-fit: cover;
+        background: #000;
+        box-shadow: 0 0 25px rgba(0,200,255,0.9);
+      ">
   </div>
 
-  <h1 style="color:white;margin-top:20px;">ZensDev</h1>
-  <p style="color:#9da5b4;">
+  <h1 style="margin-bottom: 8px;">ZensDev</h1>
+
+  <p style="
+    font-size: 15px;
+    color: #cfe9ff;
+    margin-bottom: 25px;
+  ">
     16 y.o Developer from Indonesia 🇮🇩 <br>
     HTML • CSS • JavaScript • PHP
   </p>
@@ -42,12 +64,26 @@
 
 Hi, I'm **ZensDev**, a 16-year-old developer from **Indonesia 🇮🇩**.
 
-I enjoy building and learning through real projects.  
-My main focus is **web development**, both frontend and backend.
+I enjoy learning and building things with code, especially web-based projects.  
+My current focus is **Web Development**, where I explore both frontend and backend technologies.
 
-### 💻 Skills
-- HTML & CSS
-- JavaScript
-- PHP
+I like creating small projects to sharpen my skills and understand how real applications work.
 
-Always learning, improving, and aiming to become a professional developer 🚀
+---
+
+## 💻 Skills
+- **HTML** – structure & layout  
+- **CSS** – styling & responsive design  
+- **JavaScript** – interactivity & logic  
+- **PHP** – backend & server-side logic  
+
+---
+
+## 🎯 Goals
+- Build real-world web projects  
+- Improve problem-solving skills  
+- Grow step by step into a professional developer  
+
+---
+
+> 🚀 Always learning, always improving.
