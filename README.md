@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://files.catbox.moe/rrajdg.jpg" alt="Banner" width="100%" />
+</p>
 
-<!--
-**ZensDev/ZensDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 16 y.o developer from Indonesia | HTML • CSS • JavaScript • PHP
 
-Here are some ideas to get you started:
+### 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **ZensDev**, a 16-year-old developer from **Indonesia 🇮🇩**.
+
+I enjoy learning and building things with code.  
+Currently, I focus on **web development**, exploring both frontend and backend technologies.
+
+I have experience with:
+- **HTML & CSS**
+- **JavaScript**
+- **PHP**
+
+Always learning and improving step by step 🚀
